@@ -87,7 +87,7 @@
 </head>
 <body>
     <header>
-        <img src=""C:\Users\tanya\Pictures\T&D Sales logo.png"" alt="T&D Sales, LLC Logo" class="logo">
+        <img src=""T&D Sales logo.png"" alt="T&D Sales, LLC Logo" class="logo">
         <h1>T&D Sales, LLC</h1>
         <p>Your Trusted Partner in Electrical Distribution Equipment</p>
     </header>
