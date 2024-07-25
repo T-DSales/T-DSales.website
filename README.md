@@ -131,7 +131,7 @@
         <section id="contact">
             <h2>Contact Us</h2>
             <form class="gform"  data-email="support@tdsales.net" 
-            form action="https://script.google.com/macros/s/AKfycbxI7r0dX8GHNvcgtulhCAFoWyIl1yQLVvJbJYrzb5LDwdxJ-Qo9wDG02H_MNHdu_wNZKg/exec" method="post">
+            form action="https://script.google.com/macros/s/AKfycbx5lx9XfZMG5Qv2RNcETZnu3ZX-tHdIDLRn3yw_wiWdV4j-pvn6Z8cBvOxzcR6rZVe1dA/exec" method="post">
                 <input type="text" name="name" placeholder="Your Name" required>
                 <input type="email" name="email" placeholder="Your Email" required>
                 <input type="tel" name="phone" placeholder="Your Phone Number">
