@@ -131,7 +131,7 @@
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
-            <form action="#" method="post">
+            <form action="mailto:masterelectrician88@gmail.com" method="post">
                 <input type="text" name="name" placeholder="Your Name" required>
                 <input type="email" name="email" placeholder="Your Email" required>
                 <input type="tel" name="phone" placeholder="Your Phone Number">
