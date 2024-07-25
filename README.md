@@ -130,7 +130,8 @@
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
-            <form action="mailer.php" method="post">
+            <form class="gform"  data-email="gilbert@tdsales.net" 
+            form action="https://script.google.com/macros/s/AKfycbxI7r0dX8GHNvcgtulhCAFoWyIl1yQLVvJbJYrzb5LDwdxJ-Qo9wDG02H_MNHdu_wNZKg/exec" method="post">
                 <input type="text" name="name" placeholder="Your Name" required>
                 <input type="email" name="email" placeholder="Your Email" required>
                 <input type="tel" name="phone" placeholder="Your Phone Number">
