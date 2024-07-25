@@ -19,7 +19,7 @@
             text-align: center;
         }
         .logo {
-            max-width: 100px;
+            max-width: 80px;
             height: auto;
         }
         nav {
